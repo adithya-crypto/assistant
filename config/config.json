@@ -1,0 +1,19 @@
+{
+    "claude_api_key": "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",
+    "voice_settings": {
+        "language": "en",
+        "rate": 150,
+        "volume": 1.0,
+        "energy_threshold": 4000
+    },
+    "system_settings": {
+        "wake_word": "hey jarvis",
+        "record_timeout": 5,
+        "phrase_timeout": 3,
+        "animations_enabled": true
+    },
+    "ui_settings": {
+        "theme": "dark",
+        "font_size": 11
+    }
+}

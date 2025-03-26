@@ -1,0 +1,29 @@
+2024-11-19 23:51:50,520 - JARVIS - INFO - Initializing JARVIS
+2024-11-19 23:51:50,941 - JARVIS - INFO - Configuration loaded successfully
+2024-11-19 23:51:50,941 - JARVIS - INFO - Configuration loaded successfully
+2024-11-19 23:51:50,941 - JARVIS - INFO - Voice enhancer initialized
+2024-11-19 23:51:50,941 - JARVIS - INFO - Conversation memory initialized
+2024-11-19 23:51:51,500 - JARVIS - ERROR - Failed to initialize AI systems: Claude API test failed
+2024-11-19 23:51:51,931 - JARVIS - ERROR - Failed to initialize wake word detection: WakeWordDetector.adjust_sensitivity() got an unexpected keyword argument 'threshold'
+2024-11-19 23:51:51,931 - JARVIS - INFO - System initialized with services: voice, system_monitor, audio
+2024-11-19 23:51:51,931 - JARVIS - ERROR - Error during initialization: 'Jarvis' object has no attribute 'setup_command_handlers'
+2024-11-19 23:56:22,487 - JARVIS - INFO - Initializing JARVIS
+2024-11-19 23:56:22,994 - JARVIS - INFO - Configuration loaded successfully
+2024-11-19 23:56:22,994 - JARVIS - INFO - Configuration loaded successfully
+2024-11-19 23:56:22,994 - JARVIS - INFO - Voice enhancer initialized
+2024-11-19 23:56:22,994 - JARVIS - INFO - Conversation memory initialized
+2024-11-19 23:56:23,603 - JARVIS - ERROR - Failed to initialize AI systems: Claude API test failed
+2024-11-19 23:56:24,036 - JARVIS - ERROR - Failed to initialize wake word detection: 'WakeWordDetector' object has no attribute 'adjust_sensitivity'
+2024-11-19 23:56:24,036 - JARVIS - INFO - System initialized with services: voice, system_monitor, audio
+2024-11-19 23:56:24,037 - JARVIS - ERROR - Error during initialization: 'Jarvis' object has no attribute 'setup_command_handlers'
+2024-11-19 23:57:34,721 - JARVIS - INFO - Initializing JARVIS
+2024-11-19 23:57:35,139 - JARVIS - INFO - Configuration loaded successfully
+2024-11-19 23:57:35,139 - JARVIS - INFO - Configuration loaded successfully
+2024-11-19 23:57:35,139 - JARVIS - INFO - Voice enhancer initialized
+2024-11-19 23:57:35,139 - JARVIS - INFO - Conversation memory initialized
+2024-11-19 23:57:35,741 - JARVIS - ERROR - Failed to initialize AI systems: Claude API test failed
+2024-11-19 23:57:36,175 - JARVIS - ERROR - Failed to initialize wake word detection: 'WakeWordDetector' object has no attribute 'adjust_sensitivity'
+2024-11-19 23:57:36,175 - JARVIS - INFO - System initialized with services: voice, system_monitor, audio
+2024-11-19 23:57:36,175 - JARVIS - ERROR - Error during initialization: 'Jarvis' object has no attribute 'start_background_processes'
+2024-11-20 00:05:36,339 - JARVIS - INFO - Initializing JARVIS
+2024-11-20 00:05:36,557 - JARVIS - ERROR - Error during initialization: 'Jarvis' object has no attribute 'initialize_systems'
